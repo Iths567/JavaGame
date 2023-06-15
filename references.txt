@@ -1,0 +1,4 @@
+steak image: https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.gorodche.ru%2Fgo%2Fhttp%3A%2Fapictures.club%2Fsteak-clipart-pngs&psig=AOvVaw1NvsUeg-f-ebE3szDD4RYh&ust=1673548502755000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIibjJKUwPwCFQAAAAAdAAAAABAF
+potato image: https://freshpointlocal.co.uk/product/baking-potato-medium-each/
+explosion: https://opengameart.org/content/bubble-explosion
+gameover image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eurogamer.net%2Ffive-of-the-best-game-over-screens&psig=AOvVaw25O48Ja91I2Udf6bp0yEqD&ust=1673555311423000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOD0tsCtwPwCFQAAAAAdAAAAABAJ
